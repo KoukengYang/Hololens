@@ -4,7 +4,7 @@ This is the Hololens side of the project, which includes the whole Unity project
 AR Project set up list
 
 1. Turn on the router and make sure that it is broadcasting on the 2.4ghz and 5ghz band
-	(the default ip of the router is 198.168.0.1_)
+	(the default ip of the router is 198.168.0.1)
 
 
 2. Connect the server computer (currently the kinect machine) to the router either via ethernet cable or 2.4/5 ghz wifi
